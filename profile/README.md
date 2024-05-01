@@ -1,8 +1,8 @@
 # CCC 서버
 **[user_configs.json](https://raw.githubusercontent.com/CCC-Server/CCC-Database/main/bin/user_configs.json):** ProjectIgnis\config\ 폴더에 다운로드 (혹은 덮어쓰기) 하는 것으로, 서버 접속 및 자작 카드 사용이 가능해집니다. (당연하지만, 공식 서버에서는 사용할 수 없으니 주의하세요.)
 
-## 2024년 4월: 리포지터리 이전으로 user_configs.json을 갱신하시는 분들께
-갱신 후 EDOPro를 재실행하기 전에, 이하에 따라 기존 폴더를 이동 혹은 삭제해 주세요.
+## 2024년 4월: 리포지터리 이전으로 user_configs.json을 갱신하시는 기존 이용자분들께
+user_config.json 갱신 후 EDOPro를 재실행하기 전에, 이하에 따라 기존 폴더를 이동 혹은 삭제해 주세요.
 
 * \repositories\expansions-2 → \expansions-2
 * \repositories\OriCap → \repositories\CCC-Database
